@@ -1,0 +1,2418 @@
+I
+800
+OBJ
+
+GLOBAL_cockpit_lit
+ANIM_begin
+# inst#2:PEDESTAL_LIGHT
+ANIM_trans 0.000509 1.035640 2.767211 0.000509 1.035640 2.767211 0 1 model/controls/null
+ANIM_rotate 1.000000 -0.000442 0.000000 -75.612312 -75.612312 0 1 model/controls/null
+LIGHT_PARAM airplane_inst_sp 0 0 0 1.000000 1.000000 1.000000 2 1.873179 0 0 -1 0.952396
+ANIM_end
+ANIM_begin
+# inst#3:READING_LIGHT_R
+ANIM_trans 0.228258 1.096385 2.840331 0.228258 1.096385 2.840331 0 1 model/controls/null
+ANIM_rotate 1.000000 -0.000420 0.000000 -103.463531 -103.463531 0 1 model/controls/null
+LIGHT_PARAM airplane_inst_sp 0 0 0 1.000000 1.000000 1.000000 3 1.908000 0 0 -1 0.952396
+ANIM_end
+ANIM_begin
+# inst#0:DOME_LIGHT_L
+ANIM_trans -0.490438 1.115008 2.902386 -0.490438 1.115008 2.902386 0 1 model/controls/null
+ANIM_rotate 1.000000 0.000252 0.000000 -100.929001 -100.929001 0 1 model/controls/null
+LIGHT_PARAM airplane_inst_sp 0 0 0 1.000000 0.93 0.78 0 2.383600 0 0 -1 0.282341
+ANIM_end
+ANIM_begin
+# inst#1:DOME_LIGHT_R
+ANIM_trans 0.490000 1.115008 2.902385 0.490000 1.115008 2.902385 0 1 model/controls/null
+ANIM_rotate 1.000000 0.000000 0.000000 -100.929016 -100.929016 0 1 model/controls/null
+LIGHT_PARAM airplane_inst_sp 0 0 0 1.000000 0.93 0.78 1 2.383600 0 0 -1 0.282341
+ANIM_end
+ANIM_begin
+# panel#0:PANEL_LIGHT1
+ANIM_trans -0.734766 0.352999 1.763873 -0.734766 0.352999 1.763873 0 1 model/controls/null
+ANIM_rotate 0.999304 -0.037310 0.000000 -71.455070 -71.455070 0 1 model/controls/null
+LIGHT_PARAM airplane_panel_sp 0 0 0 1.0 0.70 0.34 0 0.450000 0 0 -1 0.819152
+ANIM_end
+ANIM_begin
+# panel#1:PANEL_LIGHT2
+ANIM_trans -0.178312 0.398468 1.720493 -0.178312 0.398468 1.720493 0 1 model/controls/null
+ANIM_rotate 0.999999 0.001230 0.000000 -80.148598 -80.148598 0 1 model/controls/null
+LIGHT_PARAM airplane_panel_sp 0 0 0 1.0 0.70 0.34 1 0.600000 0 0 -1 0.906308
+ANIM_end
+ANIM_begin
+# panel#2:PANEL_LIGHT3
+ANIM_trans 0.178000 0.398290 1.720001 0.178000 0.398290 1.720001 0 1 model/controls/null
+ANIM_rotate 1.000000 0.000000 0.000000 -80.254753 -80.254753 0 1 model/controls/null
+LIGHT_PARAM airplane_panel_sp 0 0 0 1.0 0.70 0.34 2 0.600000 0 0 -1 0.906308
+ANIM_end
+ANIM_begin
+# inst#6:TABLE_LIGHT_L
+ANIM_trans -0.530054 0.329059 1.890175 -0.530054 0.329059 1.890175 0 1 model/controls/null
+ANIM_rotate 1.000000 0.000382 0.000000 -109.828362 -109.828362 0 1 model/controls/null
+LIGHT_PARAM airplane_inst_sp 0 0 0 1.000000 1.000000 0.984314 6 0.500000 0 0 -1 0.642788
+ANIM_end
+ANIM_begin
+# panel#3:PANEL_LIGHT4
+ANIM_trans 0.735000 0.352999 1.763872 0.735000 0.352999 1.763872 0 1 model/controls/null
+ANIM_rotate 0.999300 0.037415 0.000000 -71.455063 -71.455063 0 1 model/controls/null
+LIGHT_PARAM airplane_panel_sp 0 0 0 1.0 0.70 0.34 3 0.450000 0 0 -1 0.819152
+ANIM_end
+ANIM_begin
+# inst#7:TABLE_LIGHT_R
+ANIM_trans 0.530001 0.329059 1.890175 0.530001 0.329059 1.890175 0 1 model/controls/null
+ANIM_rotate 1.000000 0.000382 0.000000 -109.828362 -109.828362 0 1 model/controls/null
+LIGHT_PARAM airplane_inst_sp 0 0 0 1.000000 1.000000 0.984314 7 0.500000 0 0 -1 0.642788
+ANIM_end
+ANIM_begin
+# inst#1:DOME_LIGHT_R
+ANIM_trans 0.490243 0.839470 2.946548 0.490243 0.839470 2.946548 0 1 model/controls/null
+LIGHT_PARAM airplane_inst_sp 0 0 0 1.000000 0.93 0.78 1 2.383600 0 0 0 1.000000
+ANIM_end
+ANIM_begin
+# inst#9:CONSOLE_LIGHT_L2
+ANIM_trans -1.396687 0.010463 2.521197 -1.396687 0.010463 2.521197 0 1 model/controls/null
+ANIM_rotate 0.338183 0.941081 0.000000 -107.599648 -107.599648 0 1 model/controls/null
+LIGHT_PARAM airplane_inst_sp 0 0 0 1.000000 0.913726 0.564706 9 1.020000 0 0 -1 0.087156
+ANIM_end
+ANIM_begin
+# inst#8:CONSOLE_LIGHT_L1
+ANIM_trans -1.517801 -0.004563 2.928508 -1.517801 -0.004563 2.928508 0 1 model/controls/null
+ANIM_rotate 0.247351 0.968926 0.000000 -108.087006 -108.087006 0 1 model/controls/null
+LIGHT_PARAM airplane_inst_sp 0 0 0 1.000000 0.913726 0.564706 8 1.020000 0 0 -1 0.087156
+ANIM_end
+ANIM_begin
+# inst#10:CONSOLE_LIGHT_L3
+ANIM_trans -1.191828 0.022975 2.077360 -1.191828 0.022975 2.077360 0 1 model/controls/null
+ANIM_rotate 0.360665 0.932695 0.000000 -107.452370 -107.452370 0 1 model/controls/null
+LIGHT_PARAM airplane_inst_sp 0 0 0 1.000000 0.913726 0.564706 10 1.020000 0 0 -1 0.087156
+ANIM_end
+ANIM_begin
+# inst#11:CONSOLE_LIGHT_L4
+ANIM_trans -0.966700 -0.141606 2.284879 -0.966700 -0.141606 2.284879 0 1 model/controls/null
+ANIM_rotate 0.998301 0.058268 0.000000 -141.545792 -141.545792 0 1 model/controls/null
+LIGHT_PARAM airplane_inst_sp 0 0 0 1.000000 0.913726 0.564706 11 1.100000 0 0 -1 0.766044
+ANIM_end
+ANIM_begin
+# inst#12:CONSOLE_LIGHT_R1
+ANIM_trans 1.521000 -0.003745 2.927428 1.521000 -0.003745 2.927428 0 1 model/controls/null
+ANIM_rotate 0.247310 -0.968936 0.000000 -108.084076 -108.084076 0 1 model/controls/null
+LIGHT_PARAM airplane_inst_sp 0 0 0 1.000000 0.913726 0.564706 12 1.020000 0 0 -1 0.087156
+ANIM_end
+ANIM_begin
+# inst#13:CONSOLE_LIGHT_R2
+ANIM_trans 1.397406 0.010756 2.520921 1.397406 0.010756 2.520921 0 1 model/controls/null
+ANIM_rotate 0.338131 -0.941099 0.000000 -107.597328 -107.597328 0 1 model/controls/null
+LIGHT_PARAM airplane_inst_sp 0 0 0 1.000000 0.913726 0.564706 13 1.020000 0 0 -1 0.087156
+ANIM_end
+ANIM_begin
+# inst#14:CONSOLE_LIGHT_R3
+ANIM_trans 1.186786 0.020960 2.079118 1.186786 0.020960 2.079118 0 1 model/controls/null
+ANIM_rotate 0.360611 -0.932716 0.000000 -107.449776 -107.449776 0 1 model/controls/null
+LIGHT_PARAM airplane_inst_sp 0 0 0 1.000000 0.913726 0.564706 14 1.020000 0 0 -1 0.087156
+ANIM_end
+ANIM_begin
+# inst#15:CONSOLE_LIGHT_R4
+ANIM_trans 0.967000 -0.141606 2.284880 0.967000 -0.141606 2.284880 0 1 model/controls/null
+ANIM_rotate 0.998291 -0.058435 0.000000 -141.545502 -141.545502 0 1 model/controls/null
+LIGHT_PARAM airplane_inst_sp 0 0 0 1.000000 0.913726 0.564706 15 1.100000 0 0 -1 0.766044
+ANIM_end
+ANIM_begin
+# inst#0:DOME_LIGHT_L
+ANIM_trans -0.490822 0.839469 2.946550 -0.490822 0.839469 2.946550 0 1 model/controls/null
+LIGHT_PARAM airplane_inst_sp 0 0 0 1.000000 0.827451 0.521569 0 2.383600 0 0 0 1.000000
+ANIM_end
+ANIM_begin
+# generic#16:GEN_FWD_LIGHT_L
+ANIM_trans -0.230092 1.574847 4.302197 -0.230092 1.574847 4.302197 0 1 model/controls/null
+ANIM_rotate 0.999456 -0.032992 0.000000 -129.959900 -129.959900 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 0.996078 1.000000 0.827451 16 3.016480 0.622515
+ANIM_end
+ANIM_begin
+# generic#16:GEN_FWD_LIGHT_L
+ANIM_trans -0.499277 -0.143562 5.093803 -0.499277 -0.143562 5.093803 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 16 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#16:GEN_FWD_LIGHT_L
+ANIM_trans -0.928622 1.005120 5.093803 -0.928622 1.005120 5.093803 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 16 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#16:GEN_FWD_LIGHT_L
+ANIM_trans -0.295660 0.644097 4.584792 -0.295660 0.644097 4.584792 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 16 0.746640 1.000000
+ANIM_end
+ANIM_begin
+# generic#16:GEN_FWD_LIGHT_L
+ANIM_trans -0.295660 1.288872 4.582595 -0.295660 1.288872 4.582595 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 16 0.746640 1.000000
+ANIM_end
+ANIM_begin
+# generic#16:GEN_FWD_LIGHT_L
+ANIM_trans -0.499277 1.005120 5.093803 -0.499277 1.005120 5.093803 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 16 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#17:GEN_FWD_LIGHT_R
+ANIM_trans 1.166000 -0.368904 5.093803 1.166000 -0.368904 5.093803 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 17 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#17:GEN_FWD_LIGHT_R
+ANIM_trans 0.938661 1.005120 5.093803 0.938661 1.005120 5.093803 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 17 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#16:GEN_FWD_LIGHT_L
+ANIM_trans -1.166110 -0.368904 5.093803 -1.166110 -0.368904 5.093803 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 16 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#21:GEN_CAB1_LIGHT
+ANIM_trans 1.134975 0.839119 6.413669 1.134975 0.839119 6.413669 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 21 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#21:GEN_CAB1_LIGHT
+ANIM_trans 1.134975 0.839119 7.627467 1.134975 0.839119 7.627467 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 21 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#21:GEN_CAB1_LIGHT
+ANIM_trans 1.134975 0.839119 8.783153 1.134975 0.839119 8.783153 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 21 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#21:GEN_CAB1_LIGHT
+ANIM_trans 1.134975 0.839119 10.127403 1.134975 0.839119 10.127403 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 21 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#18:GEN_AFT_LIGHT_L
+ANIM_trans -0.169418 1.051353 28.461624 -0.169418 1.051353 28.461624 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 18 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 18 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 18 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 18 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#18:GEN_AFT_LIGHT_L
+ANIM_trans -0.169418 -0.097328 28.461624 -0.169418 -0.097328 28.461624 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 18 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 18 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 18 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 18 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#19:GEN_AFT_LIGHT_R
+ANIM_trans 0.344503 -0.143562 29.778833 0.344503 -0.143562 29.778833 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 19 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 19 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 19 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 19 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#19:GEN_AFT_LIGHT_R
+ANIM_trans 0.344503 1.005119 29.778833 0.344503 1.005119 29.778833 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 19 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 19 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 19 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 19 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#18:GEN_AFT_LIGHT_L
+ANIM_trans -0.753117 -0.368904 29.758173 -0.753117 -0.368904 29.758173 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 18 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 18 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 18 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 18 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#18:GEN_AFT_LIGHT_L
+ANIM_trans -0.821444 1.005119 29.758173 -0.821444 1.005119 29.758173 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 18 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 18 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 18 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 18 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#19:GEN_AFT_LIGHT_R
+ANIM_trans 0.776413 -0.368904 29.758173 0.776413 -0.368904 29.758173 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 19 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 19 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 19 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 19 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#19:GEN_AFT_LIGHT_R
+ANIM_trans 0.821000 1.005119 29.758173 0.821000 1.005119 29.758173 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 19 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 19 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 19 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 19 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#17:GEN_FWD_LIGHT_R
+ANIM_trans 0.538639 1.005120 5.093803 0.538639 1.005120 5.093803 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 17 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#17:GEN_FWD_LIGHT_R
+ANIM_trans 0.538639 -0.155769 5.093803 0.538639 -0.155769 5.093803 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 17 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#16:GEN_FWD_LIGHT_L
+ANIM_trans -0.295660 -0.018745 4.579940 -0.295660 -0.018745 4.579940 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 16 0.746640 1.000000
+ANIM_end
+ANIM_begin
+# generic#17:GEN_FWD_LIGHT_R
+ANIM_trans 1.166000 0.279778 5.093803 1.166000 0.279778 5.093803 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 17 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#16:GEN_FWD_LIGHT_L
+ANIM_trans -1.198336 0.297112 5.093803 -1.198336 0.297112 5.093803 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 16 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#16:GEN_FWD_LIGHT_L
+ANIM_trans -0.295660 0.962212 4.579940 -0.295660 0.962212 4.579940 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 16 0.746640 1.000000
+ANIM_end
+ANIM_begin
+# generic#16:GEN_FWD_LIGHT_L
+ANIM_trans -0.295660 0.286430 4.579940 -0.295660 0.286430 4.579940 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 16 0.746640 1.000000
+ANIM_end
+ANIM_begin
+# generic#17:GEN_FWD_LIGHT_R
+ANIM_trans 0.407562 0.800888 4.399651 0.407562 0.800888 4.399651 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 17 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#17:GEN_FWD_LIGHT_R
+ANIM_trans 0.854187 0.800888 4.399651 0.854187 0.800888 4.399651 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 17 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#17:GEN_FWD_LIGHT_R
+ANIM_trans 1.314224 0.800888 4.399651 1.314224 0.800888 4.399651 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 17 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#17:GEN_FWD_LIGHT_R
+ANIM_trans 0.538639 1.342812 4.586128 0.538639 1.342812 4.586128 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 17 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#17:GEN_FWD_LIGHT_R
+ANIM_trans 0.538639 1.342812 4.815575 0.538639 1.342812 4.815575 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 17 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#17:GEN_FWD_LIGHT_R
+ANIM_trans 0.538639 1.342812 5.063667 0.538639 1.342812 5.063667 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 17 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#17:GEN_FWD_LIGHT_R
+ANIM_trans 0.538639 1.342812 5.565441 0.538639 1.342812 5.565441 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 17 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#17:GEN_FWD_LIGHT_R
+ANIM_trans 0.538639 1.342812 5.328217 0.538639 1.342812 5.328217 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 17 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 17 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#16:GEN_FWD_LIGHT_L
+ANIM_trans -0.567408 1.342812 5.565441 -0.567408 1.342812 5.565441 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 16 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#16:GEN_FWD_LIGHT_L
+ANIM_trans -0.567408 1.342812 5.328217 -0.567408 1.342812 5.328217 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 16 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#16:GEN_FWD_LIGHT_L
+ANIM_trans -0.567408 1.342812 5.063667 -0.567408 1.342812 5.063667 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 16 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#16:GEN_FWD_LIGHT_L
+ANIM_trans -0.567408 1.342812 4.815575 -0.567408 1.342812 4.815575 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 16 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#16:GEN_FWD_LIGHT_L
+ANIM_trans -0.567408 1.342812 4.586128 -0.567408 1.342812 4.586128 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 16 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 16 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#21:GEN_CAB1_LIGHT
+ANIM_trans 1.134975 0.839119 7.044696 1.134975 0.839119 7.044696 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 21 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#21:GEN_CAB1_LIGHT
+ANIM_trans 1.134975 0.839119 8.216243 1.134975 0.839119 8.216243 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 21 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#21:GEN_CAB1_LIGHT
+ANIM_trans 1.134975 0.839119 9.407190 1.134975 0.839119 9.407190 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 21 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#21:GEN_CAB1_LIGHT
+ANIM_trans 0.247066 1.360619 7.541530 0.247066 1.360619 7.541530 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 21 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#21:GEN_CAB1_LIGHT
+ANIM_trans 0.247066 1.360619 8.697215 0.247066 1.360619 8.697215 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 21 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#21:GEN_CAB1_LIGHT
+ANIM_trans 0.247066 1.360619 10.111687 0.247066 1.360619 10.111687 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 21 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#21:GEN_CAB1_LIGHT
+ANIM_trans 0.247066 1.360619 6.939624 0.247066 1.360619 6.939624 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 21 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#21:GEN_CAB1_LIGHT
+ANIM_trans 0.247066 1.360619 8.130305 0.247066 1.360619 8.130305 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 21 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#21:GEN_CAB1_LIGHT
+ANIM_trans 0.247066 1.360619 9.321253 0.247066 1.360619 9.321253 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 21 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#21:GEN_CAB1_LIGHT
+ANIM_trans 0.263515 0.154488 8.216243 0.263515 0.154488 8.216243 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 21 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#21:GEN_CAB1_LIGHT
+ANIM_trans 0.263515 0.154488 7.627467 0.263515 0.154488 7.627467 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 21 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#21:GEN_CAB1_LIGHT
+ANIM_trans 0.263515 0.154488 7.044696 0.263515 0.154488 7.044696 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 21 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#21:GEN_CAB1_LIGHT
+ANIM_trans 0.263515 0.154488 6.413669 0.263515 0.154488 6.413669 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 21 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#21:GEN_CAB1_LIGHT
+ANIM_trans 0.263515 0.154488 8.783153 0.263515 0.154488 8.783153 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 21 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#21:GEN_CAB1_LIGHT
+ANIM_trans 0.263515 0.154488 9.407190 0.263515 0.154488 9.407190 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 21 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#21:GEN_CAB1_LIGHT
+ANIM_trans 0.263515 0.154488 10.127403 0.263515 0.154488 10.127403 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 21 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 21 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#20:GEN_CAB0_LIGHT
+ANIM_trans -0.261157 1.360619 6.939624 -0.261157 1.360619 6.939624 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 20 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#20:GEN_CAB0_LIGHT
+ANIM_trans -0.261157 1.360619 7.541530 -0.261157 1.360619 7.541530 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 20 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#20:GEN_CAB0_LIGHT
+ANIM_trans -0.261157 1.360619 8.130305 -0.261157 1.360619 8.130305 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 20 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#20:GEN_CAB0_LIGHT
+ANIM_trans -0.261157 1.360619 8.697215 -0.261157 1.360619 8.697215 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 20 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#20:GEN_CAB0_LIGHT
+ANIM_trans -0.261157 1.360619 9.321253 -0.261157 1.360619 9.321253 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 20 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#20:GEN_CAB0_LIGHT
+ANIM_trans -0.261157 1.360619 10.111687 -0.261157 1.360619 10.111687 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 20 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#20:GEN_CAB0_LIGHT
+ANIM_trans -0.337955 0.154488 10.127403 -0.337955 0.154488 10.127403 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 20 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#20:GEN_CAB0_LIGHT
+ANIM_trans -0.337955 0.154488 9.407190 -0.337955 0.154488 9.407190 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 20 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#20:GEN_CAB0_LIGHT
+ANIM_trans -0.337955 0.154488 8.783153 -0.337955 0.154488 8.783153 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 20 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#20:GEN_CAB0_LIGHT
+ANIM_trans -0.337955 0.154488 8.216243 -0.337955 0.154488 8.216243 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 20 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#20:GEN_CAB0_LIGHT
+ANIM_trans -0.337955 0.154488 7.627467 -0.337955 0.154488 7.627467 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 20 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#20:GEN_CAB0_LIGHT
+ANIM_trans -0.337955 0.154488 7.044696 -0.337955 0.154488 7.044696 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 20 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#20:GEN_CAB0_LIGHT
+ANIM_trans -0.337955 0.154488 6.413669 -0.337955 0.154488 6.413669 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 20 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#20:GEN_CAB0_LIGHT
+ANIM_trans -1.165170 0.839119 10.127403 -1.165170 0.839119 10.127403 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 20 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#20:GEN_CAB0_LIGHT
+ANIM_trans -1.165170 0.839119 9.407190 -1.165170 0.839119 9.407190 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 20 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#20:GEN_CAB0_LIGHT
+ANIM_trans -1.165170 0.839119 8.783153 -1.165170 0.839119 8.783153 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 20 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#20:GEN_CAB0_LIGHT
+ANIM_trans -1.165170 0.839119 8.216243 -1.165170 0.839119 8.216243 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 20 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#20:GEN_CAB0_LIGHT
+ANIM_trans -1.165170 0.839119 7.627467 -1.165170 0.839119 7.627467 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 20 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#20:GEN_CAB0_LIGHT
+ANIM_trans -1.165170 0.839119 7.044696 -1.165170 0.839119 7.044696 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 20 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#20:GEN_CAB0_LIGHT
+ANIM_trans -1.165170 0.839119 6.413669 -1.165170 0.839119 6.413669 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 20 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 20 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 1.134975 0.839119 10.994278 1.134975 0.839119 10.994278 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 0.247066 1.360619 10.996811 0.247066 1.360619 10.996811 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 0.263515 0.154488 10.991726 0.263515 0.154488 10.991726 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -0.261157 1.360619 10.997684 -0.261157 1.360619 10.997684 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -0.337955 0.154488 10.991726 -0.337955 0.154488 10.991726 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -1.165170 0.839119 10.994278 -1.165170 0.839119 10.994278 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 1.134975 0.839119 11.789333 1.134975 0.839119 11.789333 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 0.247066 1.360619 11.791866 0.247066 1.360619 11.791866 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 0.263515 0.154488 11.786781 0.263515 0.154488 11.786781 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -0.261157 1.360619 11.792740 -0.261157 1.360619 11.792740 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -0.337955 0.154488 11.786781 -0.337955 0.154488 11.786781 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -1.165170 0.839119 11.789333 -1.165170 0.839119 11.789333 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 1.134975 0.839119 12.584388 1.134975 0.839119 12.584388 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 0.247066 1.360619 12.586921 0.247066 1.360619 12.586921 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 0.263515 0.154488 12.581837 0.263515 0.154488 12.581837 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -0.261157 1.360619 12.587795 -0.261157 1.360619 12.587795 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -0.337955 0.154488 12.581837 -0.337955 0.154488 12.581837 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -1.165170 0.839119 12.584388 -1.165170 0.839119 12.584388 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 1.134975 0.839119 13.379443 1.134975 0.839119 13.379443 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 0.247066 1.360619 13.381976 0.247066 1.360619 13.381976 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 0.263515 0.154488 13.376892 0.263515 0.154488 13.376892 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -0.261157 1.360619 13.382851 -0.261157 1.360619 13.382851 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -0.337955 0.154488 13.376892 -0.337955 0.154488 13.376892 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -1.165170 0.839119 13.379443 -1.165170 0.839119 13.379443 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 1.134975 0.839119 14.174498 1.134975 0.839119 14.174498 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 0.247066 1.360619 14.177031 0.247066 1.360619 14.177031 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 0.263515 0.154488 14.171947 0.263515 0.154488 14.171947 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -0.261157 1.360619 14.177906 -0.261157 1.360619 14.177906 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -0.337955 0.154488 14.171947 -0.337955 0.154488 14.171947 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -1.165170 0.839119 14.174498 -1.165170 0.839119 14.174498 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 1.134975 0.839119 14.950338 1.134975 0.839119 14.950338 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 0.247066 1.360619 14.952871 0.247066 1.360619 14.952871 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 0.263515 0.154488 14.947788 0.263515 0.154488 14.947788 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -0.261157 1.360619 14.953747 -0.261157 1.360619 14.953747 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -0.337955 0.154488 14.947788 -0.337955 0.154488 14.947788 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -1.165170 0.839119 14.950338 -1.165170 0.839119 14.950338 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 1.134975 0.839119 15.955587 1.134975 0.839119 15.955587 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 0.247066 1.360619 15.958120 0.247066 1.360619 15.958120 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 0.263515 0.154488 15.953037 0.263515 0.154488 15.953037 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -0.261157 1.360619 15.958996 -0.261157 1.360619 15.958996 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -0.337955 0.154488 15.953037 -0.337955 0.154488 15.953037 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -1.165170 0.839119 15.955587 -1.165170 0.839119 15.955587 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 1.134975 0.839119 16.763170 1.134975 0.839119 16.763170 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 0.247066 1.360619 16.765703 0.247066 1.360619 16.765703 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 0.263515 0.154488 16.760620 0.263515 0.154488 16.760620 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -0.261157 1.360619 16.766579 -0.261157 1.360619 16.766579 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -0.337955 0.154488 16.760620 -0.337955 0.154488 16.760620 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -1.165170 0.839119 16.763170 -1.165170 0.839119 16.763170 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 1.134975 0.839119 17.590456 1.134975 0.839119 17.590456 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 0.247066 1.360619 17.592989 0.247066 1.360619 17.592989 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 0.263515 0.154488 17.587904 0.263515 0.154488 17.587904 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -0.261157 1.360619 17.593863 -0.261157 1.360619 17.593863 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -0.337955 0.154488 17.587904 -0.337955 0.154488 17.587904 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -1.165170 0.839119 17.590456 -1.165170 0.839119 17.590456 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 1.134975 0.839119 18.403048 1.134975 0.839119 18.403048 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 0.247066 1.360619 18.405581 0.247066 1.360619 18.405581 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 0.263515 0.154488 18.400497 0.263515 0.154488 18.400497 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -0.261157 1.360619 18.406456 -0.261157 1.360619 18.406456 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -0.337955 0.154488 18.400497 -0.337955 0.154488 18.400497 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -1.165170 0.839119 18.403048 -1.165170 0.839119 18.403048 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 1.134975 0.839119 19.085276 1.134975 0.839119 19.085276 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 0.247066 1.360619 19.087809 0.247066 1.360619 19.087809 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#23:GEN_CAB3_LIGHT
+ANIM_trans 0.263515 0.154488 19.082726 0.263515 0.154488 19.082726 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 23 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 23 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -0.261157 1.360619 19.088684 -0.261157 1.360619 19.088684 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -0.337955 0.154488 19.082726 -0.337955 0.154488 19.082726 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#22:GEN_CAB2_LIGHT
+ANIM_trans -1.165170 0.839119 19.085276 -1.165170 0.839119 19.085276 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 22 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 22 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 1.134975 0.839119 19.795958 1.134975 0.839119 19.795958 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 0.247066 1.360619 19.798491 0.247066 1.360619 19.798491 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 0.263515 0.154488 19.793407 0.263515 0.154488 19.793407 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -0.261157 1.360619 19.799366 -0.261157 1.360619 19.799366 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -0.337955 0.154488 19.793407 -0.337955 0.154488 19.793407 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -1.165170 0.839119 19.795958 -1.165170 0.839119 19.795958 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 1.134975 0.839119 20.591013 1.134975 0.839119 20.591013 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 0.247066 1.360619 20.593546 0.247066 1.360619 20.593546 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 0.263515 0.154488 20.588463 0.263515 0.154488 20.588463 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -0.261157 1.360619 20.594421 -0.261157 1.360619 20.594421 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -0.337955 0.154488 20.588463 -0.337955 0.154488 20.588463 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -1.165170 0.839119 20.591013 -1.165170 0.839119 20.591013 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 1.134975 0.839119 21.386068 1.134975 0.839119 21.386068 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 0.247066 1.360619 21.388601 0.247066 1.360619 21.388601 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 0.263515 0.154488 21.383518 0.263515 0.154488 21.383518 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -0.261157 1.360619 21.389477 -0.261157 1.360619 21.389477 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -0.337955 0.154488 21.383518 -0.337955 0.154488 21.383518 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -1.165170 0.839119 21.386068 -1.165170 0.839119 21.386068 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 1.134975 0.839119 22.181126 1.134975 0.839119 22.181126 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 0.247066 1.360619 22.183659 0.247066 1.360619 22.183659 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 0.263515 0.154488 22.178574 0.263515 0.154488 22.178574 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -0.261157 1.360619 22.184532 -0.261157 1.360619 22.184532 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -0.337955 0.154488 22.178574 -0.337955 0.154488 22.178574 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -1.165170 0.839119 22.181126 -1.165170 0.839119 22.181126 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 1.134975 0.839119 22.976181 1.134975 0.839119 22.976181 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 0.247066 1.360619 22.978714 0.247066 1.360619 22.978714 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 0.263515 0.154488 22.973629 0.263515 0.154488 22.973629 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -0.261157 1.360619 22.979588 -0.261157 1.360619 22.979588 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -0.337955 0.154488 22.973629 -0.337955 0.154488 22.973629 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -1.165170 0.839119 22.976181 -1.165170 0.839119 22.976181 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 1.134975 0.839119 23.752022 1.134975 0.839119 23.752022 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 0.247066 1.360619 23.754555 0.247066 1.360619 23.754555 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 0.263515 0.154488 23.749470 0.263515 0.154488 23.749470 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -0.261157 1.360619 23.755428 -0.261157 1.360619 23.755428 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -0.337955 0.154488 23.749470 -0.337955 0.154488 23.749470 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -1.165170 0.839119 23.752022 -1.165170 0.839119 23.752022 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 1.134975 0.839119 24.556404 1.134975 0.839119 24.556404 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 0.247066 1.360619 24.558937 0.247066 1.360619 24.558937 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 0.263515 0.154488 24.553852 0.263515 0.154488 24.553852 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -0.261157 1.360619 24.559811 -0.261157 1.360619 24.559811 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -0.337955 0.154488 24.553852 -0.337955 0.154488 24.553852 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -1.165170 0.839119 24.556404 -1.165170 0.839119 24.556404 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 1.134975 0.839119 25.409885 1.134975 0.839119 25.409885 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 0.247066 1.360619 25.412418 0.247066 1.360619 25.412418 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 0.263515 0.154488 25.407333 0.263515 0.154488 25.407333 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -0.261157 1.360619 25.413292 -0.261157 1.360619 25.413292 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -0.337955 0.154488 25.407333 -0.337955 0.154488 25.407333 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -1.165170 0.839119 25.409885 -1.165170 0.839119 25.409885 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 1.134975 0.839119 26.158562 1.134975 0.839119 26.158562 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 0.247066 1.360619 26.161095 0.247066 1.360619 26.161095 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 0.263515 0.154488 26.156012 0.263515 0.154488 26.156012 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -0.261157 1.360619 26.161970 -0.261157 1.360619 26.161970 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -0.337955 0.154488 26.156012 -0.337955 0.154488 26.156012 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -1.165170 0.839119 26.158562 -1.165170 0.839119 26.158562 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 1.134975 0.839119 26.915257 1.134975 0.839119 26.915257 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 0.247066 1.360619 26.917789 0.247066 1.360619 26.917789 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 0.263515 0.154488 26.912704 0.263515 0.154488 26.912704 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -0.261157 1.360619 26.918663 -0.261157 1.360619 26.918663 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -0.337955 0.154488 26.912704 -0.337955 0.154488 26.912704 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -1.165170 0.839119 26.915257 -1.165170 0.839119 26.915257 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 1.134975 0.839119 27.472904 1.134975 0.839119 27.472904 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 0.247066 1.360619 27.475437 0.247066 1.360619 27.475437 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 0.263515 0.154488 27.470352 0.263515 0.154488 27.470352 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -0.261157 1.360619 27.476311 -0.261157 1.360619 27.476311 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -0.337955 0.154488 27.470352 -0.337955 0.154488 27.470352 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -1.165170 0.839119 27.472904 -1.165170 0.839119 27.472904 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.300000 1.000000
+ANIM_end
+ANIM_begin
+# generic#18:GEN_AFT_LIGHT_L
+ANIM_trans -0.437624 0.906486 29.758173 -0.437624 0.906486 29.758173 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 18 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 18 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 18 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 18 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#18:GEN_AFT_LIGHT_L
+ANIM_trans -0.437624 -0.242195 29.758173 -0.437624 -0.242195 29.758173 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 18 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 18 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 18 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 18 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#19:GEN_AFT_LIGHT_R
+ANIM_trans 0.156690 1.051353 28.461624 0.156690 1.051353 28.461624 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 19 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 19 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 19 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 19 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#19:GEN_AFT_LIGHT_R
+ANIM_trans 0.156690 -0.097328 28.461624 0.156690 -0.097328 28.461624 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 19 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 19 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 19 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.972549 0.796079 19 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#24:GEN_CAB4_LIGHT
+ANIM_trans -0.261157 1.360619 27.846876 -0.261157 1.360619 27.846876 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 24 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 24 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#25:GEN_CAB5_LIGHT
+ANIM_trans 0.247066 1.360619 27.846003 0.247066 1.360619 27.846003 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 25 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.992157 0.788235 25 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#29:EMER_LIGHT_4
+ANIM_trans -0.261157 1.360618 26.509686 -0.261157 1.360618 26.509686 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 29 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#29:EMER_LIGHT_4
+ANIM_trans -0.261157 1.360618 25.920910 -0.261157 1.360618 25.920910 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 29 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#27:EMER_LIGHT_2
+ANIM_trans 0.865162 0.758217 14.863676 0.865162 0.758217 14.863676 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.713726 0.623529 27 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#27:EMER_LIGHT_2
+ANIM_trans -0.031079 1.437019 14.234911 -0.031079 1.437019 14.234911 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.713726 0.623529 27 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#27:EMER_LIGHT_2
+ANIM_trans -0.031079 1.440971 14.629091 -0.031079 1.440971 14.629091 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.713726 0.627451 27 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#27:EMER_LIGHT_2
+ANIM_trans -0.784216 0.758217 14.863676 -0.784216 0.758217 14.863676 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.713726 0.623529 27 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#26:EMER_LIGHT_1
+ANIM_trans -0.562558 1.395790 5.063667 -0.562558 1.395790 5.063667 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.713726 0.623529 26 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#26:EMER_LIGHT_1
+ANIM_trans 0.540622 1.395790 5.063667 0.540622 1.395790 5.063667 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.713726 0.623529 26 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#26:EMER_LIGHT_1
+ANIM_trans -0.030674 1.514839 6.753811 -0.030674 1.514839 6.753811 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.713726 0.623529 26 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#29:EMER_LIGHT_4
+ANIM_trans -0.031079 1.505913 27.535053 -0.031079 1.505913 27.535053 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.713726 0.627451 29 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#29:EMER_LIGHT_4
+ANIM_trans 0.244581 1.360618 25.920910 0.244581 1.360618 25.920910 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 29 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#29:EMER_LIGHT_4
+ANIM_trans 0.244581 1.360618 26.509686 0.244581 1.360618 26.509686 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 29 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#29:EMER_LIGHT_4
+ANIM_trans -0.568737 1.390251 29.658594 -0.568737 1.390251 29.658594 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.713726 0.627451 29 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#29:EMER_LIGHT_4
+ANIM_trans 0.530994 1.390251 29.658594 0.530994 1.390251 29.658594 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.713726 0.627451 29 1.224000 1.000000
+ANIM_end
+ANIM_begin
+# generic#29:EMER_LIGHT_4
+ANIM_trans -0.261157 0.154181 25.920910 -0.261157 0.154181 25.920910 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 29 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#29:EMER_LIGHT_4
+ANIM_trans 0.244581 0.154181 25.920910 0.244581 0.154181 25.920910 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 29 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#29:EMER_LIGHT_4
+ANIM_trans 0.244581 0.154181 26.509686 0.244581 0.154181 26.509686 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 29 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#29:EMER_LIGHT_4
+ANIM_trans -0.261157 0.154181 26.509686 -0.261157 0.154181 26.509686 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 29 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 29 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#28:EMER_LIGHT_3
+ANIM_trans -0.261157 1.360618 22.667248 -0.261157 1.360618 22.667248 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 28 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#28:EMER_LIGHT_3
+ANIM_trans 0.244581 1.360618 22.667248 0.244581 1.360618 22.667248 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 28 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#28:EMER_LIGHT_3
+ANIM_trans 0.244581 1.360618 23.256023 0.244581 1.360618 23.256023 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 28 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#28:EMER_LIGHT_3
+ANIM_trans -0.261157 0.154181 22.667248 -0.261157 0.154181 22.667248 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 28 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#28:EMER_LIGHT_3
+ANIM_trans 0.244581 0.154181 22.667248 0.244581 0.154181 22.667248 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 28 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#28:EMER_LIGHT_3
+ANIM_trans 0.244581 0.154181 23.256023 0.244581 0.154181 23.256023 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 28 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#28:EMER_LIGHT_3
+ANIM_trans -0.261157 0.154181 23.256023 -0.261157 0.154181 23.256023 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 28 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#28:EMER_LIGHT_3
+ANIM_trans -0.261157 1.360618 23.256023 -0.261157 1.360618 23.256023 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 28 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#28:EMER_LIGHT_3
+ANIM_trans 0.244581 1.360618 19.482922 0.244581 1.360618 19.482922 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 28 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#28:EMER_LIGHT_3
+ANIM_trans 0.244581 1.360618 20.071697 0.244581 1.360618 20.071697 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 28 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#28:EMER_LIGHT_3
+ANIM_trans -0.261157 0.154181 19.482922 -0.261157 0.154181 19.482922 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 28 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#28:EMER_LIGHT_3
+ANIM_trans 0.244581 0.154181 19.482922 0.244581 0.154181 19.482922 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 28 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#28:EMER_LIGHT_3
+ANIM_trans 0.244581 0.154181 20.071697 0.244581 0.154181 20.071697 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 28 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#28:EMER_LIGHT_3
+ANIM_trans -0.261157 0.154181 20.071697 -0.261157 0.154181 20.071697 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 28 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#28:EMER_LIGHT_3
+ANIM_trans -0.261157 1.360618 20.071697 -0.261157 1.360618 20.071697 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 28 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#28:EMER_LIGHT_3
+ANIM_trans -0.261157 1.360618 19.482922 -0.261157 1.360618 19.482922 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 28 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 28 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#27:EMER_LIGHT_2
+ANIM_trans 0.244581 1.360619 16.865412 0.244581 1.360619 16.865412 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 27 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#27:EMER_LIGHT_2
+ANIM_trans -0.261157 0.154181 16.276636 -0.261157 0.154181 16.276636 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 27 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#27:EMER_LIGHT_2
+ANIM_trans 0.244581 0.154181 16.276636 0.244581 0.154181 16.276636 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 27 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#27:EMER_LIGHT_2
+ANIM_trans 0.244581 0.154181 16.865412 0.244581 0.154181 16.865412 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 27 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#27:EMER_LIGHT_2
+ANIM_trans -0.261157 0.154181 16.865412 -0.261157 0.154181 16.865412 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 27 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#27:EMER_LIGHT_2
+ANIM_trans -0.261157 1.360619 16.865412 -0.261157 1.360619 16.865412 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 27 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#27:EMER_LIGHT_2
+ANIM_trans -0.261157 1.360619 16.276636 -0.261157 1.360619 16.276636 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 27 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#27:EMER_LIGHT_2
+ANIM_trans 0.244581 1.360619 16.276636 0.244581 1.360619 16.276636 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 27 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#27:EMER_LIGHT_2
+ANIM_trans -0.261157 0.154181 13.046171 -0.261157 0.154181 13.046171 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 27 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#27:EMER_LIGHT_2
+ANIM_trans 0.244581 0.154181 13.046171 0.244581 0.154181 13.046171 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 27 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#27:EMER_LIGHT_2
+ANIM_trans 0.244581 0.154181 13.634947 0.244581 0.154181 13.634947 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 27 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#27:EMER_LIGHT_2
+ANIM_trans -0.261157 0.154181 13.634947 -0.261157 0.154181 13.634947 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 27 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#27:EMER_LIGHT_2
+ANIM_trans -0.261157 1.360619 13.634947 -0.261157 1.360619 13.634947 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 27 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#27:EMER_LIGHT_2
+ANIM_trans -0.261157 1.360619 13.046171 -0.261157 1.360619 13.046171 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 27 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#27:EMER_LIGHT_2
+ANIM_trans 0.244581 1.360619 13.046171 0.244581 1.360619 13.046171 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 27 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#27:EMER_LIGHT_2
+ANIM_trans 0.244581 1.360619 13.634947 0.244581 1.360619 13.634947 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 27 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 27 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#26:EMER_LIGHT_1
+ANIM_trans 0.244581 0.154181 9.784704 0.244581 0.154181 9.784704 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 26 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#26:EMER_LIGHT_1
+ANIM_trans 0.244581 0.154181 10.373480 0.244581 0.154181 10.373480 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 26 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#26:EMER_LIGHT_1
+ANIM_trans -0.261157 0.154181 10.373480 -0.261157 0.154181 10.373480 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 26 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#26:EMER_LIGHT_1
+ANIM_trans -0.261157 1.360619 10.373480 -0.261157 1.360619 10.373480 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 26 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#26:EMER_LIGHT_1
+ANIM_trans -0.261157 1.360619 9.784704 -0.261157 1.360619 9.784704 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 26 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#26:EMER_LIGHT_1
+ANIM_trans 0.244581 1.360619 9.784704 0.244581 1.360619 9.784704 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 26 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#26:EMER_LIGHT_1
+ANIM_trans 0.244581 1.360619 10.373480 0.244581 1.360619 10.373480 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 26 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#26:EMER_LIGHT_1
+ANIM_trans -0.261157 0.154181 9.784704 -0.261157 0.154181 9.784704 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 26 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#26:EMER_LIGHT_1
+ANIM_trans 0.244581 0.154181 8.292454 0.244581 0.154181 8.292454 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 26 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#26:EMER_LIGHT_1
+ANIM_trans -0.261157 0.154181 8.292454 -0.261157 0.154181 8.292454 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 26 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#26:EMER_LIGHT_1
+ANIM_trans -0.261157 1.360619 8.292454 -0.261157 1.360619 8.292454 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 26 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#26:EMER_LIGHT_1
+ANIM_trans -0.261157 1.360619 7.703679 -0.261157 1.360619 7.703679 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 26 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#26:EMER_LIGHT_1
+ANIM_trans 0.244581 1.360619 7.703679 0.244581 1.360619 7.703679 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 26 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#26:EMER_LIGHT_1
+ANIM_trans 0.244581 1.360619 8.292454 0.244581 1.360619 8.292454 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 26 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#26:EMER_LIGHT_1
+ANIM_trans -0.261157 0.154181 7.703679 -0.261157 0.154181 7.703679 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 26 1.000000 1.000000
+ANIM_end
+ANIM_begin
+# generic#26:EMER_LIGHT_1
+ANIM_trans 0.244581 0.154181 7.703679 0.244581 0.154181 7.703679 0 1 model/controls/null
+LIGHT_PARAM airplane_generic_core 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_glow 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_flare 0 0 0 0 0 0 26 0.000000
+LIGHT_PARAM airplane_generic_sp 0 0 0 1.000000 0.694118 0.447059 26 1.000000 1.000000
+ANIM_end
+
+ANIM_begin
+ANIM_trans 1.075301 0.137667 1.907580 1.075301 0.137667 1.907580 0 1 model/controls/null
+ANIM_trans_begin model/controls/window_r
+ANIM_trans_key 0.000000 0.000000 0.000000 0.000000
+ANIM_trans_key 0.333333 0.000000 0.000000 0.000000
+ANIM_trans_key 0.666667 -0.068928 -0.042599 0.025139
+ANIM_trans_key 1.000000 0.113594 -0.042599 0.525611
+ANIM_trans_end
+ANIM_rotate -0.146121 -0.542672 -0.827137 -36.063797 -36.063797 0 1 model/controls/null
+ANIM_rotate_begin -nan(ind) -nan(ind) -nan(ind) model/controls/window_r
+ANIM_rotate_key 0.000000 0.000000
+ANIM_rotate_key 0.333333 0.000000
+ANIM_rotate_key 0.666667 0.000000
+ANIM_rotate_key 1.000000 0.000000
+ANIM_rotate_end
+ANIM_begin
+# inst#5:WINDOW_LIGHT_R
+ANIM_trans -0.025747 0.639128 0.245492 -0.025747 0.639128 0.245492 0 1 model/controls/null
+ANIM_rotate 0.999998 -0.002184 0.000000 -83.721550 -83.721550 0 1 model/controls/null
+LIGHT_PARAM airplane_inst_sp 0 0 0 1.000000 1.000000 1.000000 5 0.800000 0 0 -1 0.820651
+ANIM_end
+ANIM_end
+
+ANIM_begin
+ANIM_trans -1.076256 0.137668 1.907579 -1.076256 0.137668 1.907579 0 1 model/controls/null
+ANIM_trans_begin model/controls/window_l
+ANIM_trans_key 0.000000 0.000000 0.000000 0.000000
+ANIM_trans_key 0.333333 0.000000 0.000000 0.000000
+ANIM_trans_key 0.666667 0.065853 -0.040699 0.024015
+ANIM_trans_key 1.000000 -0.114746 -0.040699 0.519211
+ANIM_trans_end
+ANIM_rotate 0.178992 0.950014 0.255803 -112.772118 -112.772118 0 1 model/controls/null
+ANIM_rotate_begin 0.999998 -0.002184 0.000000 model/controls/window_l
+ANIM_rotate_key 0.000000 0.000000
+ANIM_rotate_key 0.333333 0.000000
+ANIM_rotate_key 0.666667 0.000000
+ANIM_rotate_key 1.000000 0.000000
+ANIM_rotate_end
+ANIM_begin
+# inst#4:WINDOW_LIGHT_L
+ANIM_trans 0.245276 0.639417 -0.026270 0.245276 0.639417 -0.026270 0 1 model/controls/null
+ANIM_rotate 0.993949 -0.109842 0.000000 -89.817841 -89.817841 0 1 model/controls/null
+LIGHT_PARAM airplane_inst_sp 0 0 0 1.000000 1.000000 1.000000 4 0.800000 0 0 -1 0.820651
+ANIM_end
+ANIM_end
